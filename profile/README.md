@@ -1,17 +1,16 @@
-<img src="https://jspaste.eu/logo.webp" align="right" style="width: 100px" />
-
 # JSPaste
+<a href="https://jspaste.eu"><img align="right" alt="JSPaste" src="https://jspaste.eu/logo.webp" width="100" /></a>
 
 Welcome to the JSPaste organization!
 
 Useful links:
 
-- [Website](https://jspaste.eu/)
-- [API docs](https://docs.jspaste.eu/)
+- [Website](https://jspaste.eu)
+- [API docs](https://docs.jspaste.eu)
 
 More:
 
-- [Frontend source](https://github.com/JSPaste/JSP-Frontend)
-- [Backend source](https://github.com/JSPaste/JSP-Backend)
-- [Official Library](https://github.com/JSPaste/JSPaste)
-- [More Libs](https://github.com/JSPaste/Awesome-JSPaste)
+- [Frontend source](https://github.com/jspaste/frontend)
+- [Backend source](https://github.com/jspaste/backend)
+- [Library source](https://github.com/jspaste/library)
+- [JSPaste collection](https://github.com/jspaste/awesome-jspaste)
